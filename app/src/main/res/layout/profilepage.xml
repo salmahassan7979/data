@@ -38,10 +38,10 @@
             android:id="@+id/ratingBar2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="80dp"
             android:layout_marginTop="-60dp"
             android:background="#FF6666"
             android:stepSize="@android:dimen/app_icon_size"
+            android:layout_marginLeft="80dp"
             android:layout_marginStart="80dp" />
 
         <Button

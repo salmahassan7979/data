@@ -10,7 +10,8 @@
     <string name="Notifications">Notification</string>
     <string name="Account">Account</string>
     <string name="Logout">Logout</string>
-
+    <string name="Add_cart">add cart</string>
+    <string name="req">cancel Request</string>
     <string name="or">  _____________or_____________
     </string>
     <color name="pink">#FFB6C1</color>
