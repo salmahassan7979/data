@@ -7,4 +7,5 @@
     <string name="newacc">Create New Account</string>
     <string name="or">  _____________or_____________
     </string>
+    <string name="accgmail">sign in with Google+</string>
 </resources>
