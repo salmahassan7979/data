@@ -4,8 +4,14 @@
     <string name="pass">Password</string>
     <string name="email">Email</string>
     <string name="signin">SIGN IN</string>
-    <string name="newacc">Create New Account</string>
+    <string name="Feed">Feed</string>
+    <string name="History">History</string>
+    <string name="My_Services">My Services</string>
+    <string name="Notifications">Notification</string>
+    <string name="Account">Account</string>
+    <string name="Logout">Logout</string>
+
     <string name="or">  _____________or_____________
     </string>
-    <string name="accgmail">sign in with Google+</string>
+    <color name="pink">#FFB6C1</color>
 </resources>
