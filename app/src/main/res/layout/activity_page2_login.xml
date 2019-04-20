@@ -111,7 +111,9 @@
 
 
             android:background="@color/colorPrimary"
-            android:text="@string/accgmail"  android:layout_width="match_parent"
+            android:text="@string/gmail"
+
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@android:color/white"
             android:textStyle="bold"
